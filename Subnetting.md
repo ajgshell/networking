@@ -10,5 +10,7 @@ Class A: 10.0.0.0 -> 10.255.255.255 /8
 Class B: 172.16.0.0 -> 172.31.0.0 /16  
 Class C: 192.168.0.0 > 192.168.255.255 / 24  
 
-
+Unicast - One to one trasmission. Does not scale well.
+Broadcast - one to all - Packet sent one time, but sent everywhere. 
+Multicast - One to many. 
 
